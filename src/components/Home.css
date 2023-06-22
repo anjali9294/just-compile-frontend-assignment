@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+.nav {
+  height: 73px;
+  background-color: #eb5656;
+}
+
+.main {
+}
+.left-section {
+  height: 609px;
+  background-color: #fc9797;
+  margin: 40px 40px 0px 40px;
+}
+
+.right-section {
+  margin-top: 40px;
+}
+.right-top {
+  height: 82px;
+  background-color: #fc9797;
+  margin-bottom: 20px;
+}
